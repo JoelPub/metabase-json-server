@@ -1,4 +1,4 @@
 # metabase-json-server
-https://helpful-teal-tam.cyclic.app/
-node json-server.js
-localhost:3000
+ https://drab-puce-foal-yoke.cyclic.app 
+ node json-server.js 
+ localhost:3000 
